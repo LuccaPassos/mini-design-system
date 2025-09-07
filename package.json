@@ -1,0 +1,9 @@
+{
+  "name": "mini-design-system",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucca Passos Covre",
+    "email": "luccapassoscovre@gmail.com"
+  },
+  "packageManager": "yarn@4.9.4"
+}
